@@ -1,0 +1,66 @@
+h1 {
+	font-size: 34px;
+	color: blue;
+}
+
+#id1 {
+	background-color: #FFFF00;
+}
+
+#id1 h2 {
+	color: red;
+}
+
+#id1 p:first-letter {
+	color: red;
+	font-size: 200%;
+}
+
+#id2 {
+	background-color: #FFD700;
+}
+
+#id2 h2 {
+	color: blue;
+}
+
+#id3 {
+	background-color: #DAA520;
+}
+
+#id3 h2 {
+	color: green;
+}
+
+#id4 {
+	background-color: #FFA500;
+}
+
+#id4 h2 {
+	color: purple;
+}
+
+#id4 a {
+	color: red;
+}
+
+#id4 a.link:visited {
+	color: teal;
+}
+
+#id4 a:visited {
+	color: green;
+}
+
+p {
+	font-size: 14px;
+}
+
+ul {
+	font-size: 14px;
+	font-style: italic;
+}
+
+img {
+	vertical-align: super;
+}

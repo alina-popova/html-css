@@ -1,0 +1,39 @@
+body {
+	background-color: yellow;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	position: absolute;
+	top: 240px;
+	left: 320px;
+	color: blue;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 80px 100px;
+}
+
+img.img1 {
+	position: absolute;
+	top: 240px;
+	left: 0px;
+}
+
+img.img2 {
+	position: absolute;
+	top: 0px;
+	left: 320px;
+}
+
+img.img3 {
+	position: absolute;
+	top: 240px;
+	left: 640px;
+}
+
+img.img4 {
+	position: absolute;
+	top: 480px;
+	left: 320px;
+}

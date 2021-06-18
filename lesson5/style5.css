@@ -1,0 +1,98 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	color: blue;
+	text-align: center;
+}
+
+.d1, .d2, .d3, .d4 {
+	padding: 30px;
+	margin: 20px 0;
+}
+
+.d1 {
+	background-color: #FFFF00;
+}
+
+.d1 h2 {
+	border: 5px dotted red;
+}
+
+.d2 {
+	background-color: #FFD700;
+}
+
+.d2 h2 {
+	border: 5px dashed blue;
+}
+
+.d3 {
+	background-color: #DAA520;
+}
+
+.d3 h2 {
+	border: 5px solid green;
+}
+
+.d4 {
+	background-color: #FFA500;
+	margin-bottom: 0;
+}
+
+.d4 h2 {
+	border: 5px double magenta;
+}
+
+.d4 ul li {
+	list-style: none;
+}
+
+.d4 div.content {
+	text-align: center;
+}
+
+h2 {
+	padding: 10px;
+	text-align: left;
+	display: inline-block;
+}
+
+h2.red {
+	color: red;
+}
+
+h2.green {
+	color: green;
+}
+
+h2.blue {
+	color: blue;
+}
+
+h2.green {
+	color: green;
+}
+
+h2.magenta {
+	color: magenta;
+}
+
+ul {
+	font-style: italic;
+}
+
+p.email {
+	display: inline-block;
+	background-color: red;
+	color: blue;
+	font-weight: bold;
+	padding: 20px;
+	margin-top: 20px;
+}
+
+div.content {
+	padding: 0 40px;
+}

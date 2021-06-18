@@ -1,0 +1,35 @@
+body {
+	font-family: Arial;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 34px;
+	word-spacing: 2em;
+}
+
+h2 {
+	font-size: 24px;
+	text-transform: uppercase;
+	letter-spacing: 2em;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+p {
+	font-size: 14px;
+}
+
+ul {
+	font-size: 14px;
+	font-style: italic;
+}
+
+img {
+	vertical-align: super;
+}
